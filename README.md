@@ -15,7 +15,7 @@
 |**Ponte Retificadora**|**1**| **1000 V e 2 A** | Responsável por fazer a conversão correta de C.A. para C.C. | [R$3,07](https://produto.mercadolivre.com.br/MLB-1151520283-ponte-retificadora-2w10-2a-1000v-lote-com-10-pecas-_JM)|
 |**Capacitor**|**1**| **330 uf/35 V** | Usado para estabilização da tensão do circuito, armazenando energia. O valor se chegou demonstrado pelos cálculos que vão ser explicados em seguida |[R$2,62](https://produto.mercadolivre.com.br/MLB-1475685583-20x-capacitor-eletrolitico-330uf35v-smd-105-10x102mm-_JM)|
 |**Diodo Zener**|**1**| **13 V - 0,5 W** | Regula a tensão a 13 V |[R$0,32](https://produto.mercadolivre.com.br/MLB-1395521239-diodo-zener-13v-05w-1n5243-lote-de-100-pecas-_JM)|
-|**Transistor**|**1**| **2N2222A** | Atenua a corrente e a tensão. Corrente máxima no coletor de 0.8 mA e tensão máxima do coletor 75V  |[R$1,05](https://produto.mercadolivre.com.br/MLB-1222136291-20-pecas-transistor-npn-2n2222a-_JM) |
+|**Transistor**|**1**| **2N2222A ¹** | Atenua a corrente e a tensão. Corrente máxima no coletor de 0.8 mA e tensão máxima do coletor 75 V, mais que o suficiente para trabalhar com 25 V de entrada  |[R$1,05](https://produto.mercadolivre.com.br/MLB-1222136291-20-pecas-transistor-npn-2n2222a-_JM) |
 |**Resistência**|**2**| **5K6 ohms** | Utilizada para limitar a tensão no zener de modo que está fique na faixa de 13V  |[R$1,08](https://produto.mercadolivre.com.br/MLB-1388075980-50un-resistor-1w-de-potencia-escolha-1-valor-ohmico-na-lista-_JM) |
 |**Potenciômetro**|**1**| **10k ohm**  | Mantém a tensão entre 0V e 12V | [R$2,8](https://produto.mercadolivre.com.br/MLB-882483201-10x-potencimetro-10k-linear-com-eixo-l20-estriado-_JM)|
 
@@ -57,7 +57,7 @@
 </p>
 </div>
 
-  Por fim, é possível encontrar a fórmula da capacitância, o que auxiliou a escolher um valor adequado para o componente de 330 µF, por ser acima do encontrado e por ser um valor comercial:
+  Por fim, é possível encontrar a fórmula da capacitância, o que auxiliou a escolher um valor adequado para o **capacitor** de 330 µF, por ser acima do encontrado e por ser um valor comercial:
   
   <div align="center">
 <p float="left">
@@ -77,5 +77,8 @@
 
 
 
+### Bibliografia
+
+¹ Datasheet do trasnsitor usado: https://www.onsemi.com/pub/Collateral/P2N2222A-D.PDF
 
 Trabalho proposto pelo professor Eduardo Simões para a matéria de Eletrônica do Curso de Bacharelado em Ciências de Computação do Instituto de Ciências Matemáticas e de Computação (ICMC-USP).
