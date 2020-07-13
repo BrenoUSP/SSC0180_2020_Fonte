@@ -16,7 +16,7 @@
 |**Capacitor**|**1**| **330 μf/35 V** | Usado para estabilização da tensão do circuito, armazenando energia. O valor se chegou demonstrado pelos cálculos que vão ser explicados em seguida |[R$2,62](https://produto.mercadolivre.com.br/MLB-1475685583-20x-capacitor-eletrolitico-330uf35v-smd-105-10x102mm-_JM)|
 |**Diodo Zener**|**1**| **13 V - 0,5 W** | Regula a tensão a 13 V |[R$0,32](https://produto.mercadolivre.com.br/MLB-1395521239-diodo-zener-13v-05w-1n5243-lote-de-100-pecas-_JM)|
 |**Transistor**|**1**| **2N2222A ¹** | Atenua a corrente e a tensão. Corrente máxima no coletor de 0.8 mA e tensão máxima do coletor 75 V, mais que o suficiente para trabalhar com 25 V de entrada  |[R$1,05](https://produto.mercadolivre.com.br/MLB-1222136291-20-pecas-transistor-npn-2n2222a-_JM) |
-|**Resistência**|**2**| **5,6K Ω** | Utilizada para limitar a tensão no zener de modo que está fique na faixa de 13V  |[R$1,08](https://produto.mercadolivre.com.br/MLB-1388075980-50un-resistor-1w-de-potencia-escolha-1-valor-ohmico-na-lista-_JM) |
+|**Resistência**|**2**| **5,6K Ω** | R1 utilizado para limitar a tensão no zener de modo que está fique na faixa de 13V e o R3 se adapta ao potenciômetro mantendo a tensão de 3V a 12V  |[R$1,08](https://produto.mercadolivre.com.br/MLB-1388075980-50un-resistor-1w-de-potencia-escolha-1-valor-ohmico-na-lista-_JM) 
 |**Potenciômetro**|**1**| **10k Ω**  | Mantém a tensão da fonte entre 3 V e 12 V | [R$2,8](https://produto.mercadolivre.com.br/MLB-882483201-10x-potencimetro-10k-linear-com-eixo-l20-estriado-_JM)|
 
 |**Preço total (com o frete)**|
@@ -73,9 +73,37 @@
 </p>
 </div>
 
-[Link da simulação](http://tinyurl.com/y7hmerds)
+  Falstad é um applet originalmente desenvolvido em Java, agora numa versão Javascript, feito para fazer simulações com circuitos. Você pode encontrar o repositório no GitHub [aqui](https://github.com/pfalstad/circuitjs1/).
 
+  A simulação desse trabalho: [Link da simulação](http://tinyurl.com/y7hmerds)
 
+### EAGLE
+
+  Para o desenvolvimento de um esquemático e da PCB do circuito, foi utilizado do software EAGLE, que foi ensinado de suas capacidades e instruções importantes para o desenvolvimento eficaz de circuitos como os esperados da disciplina.
+  
+#### Esquemático
+
+  O projeto esquemático no EAGLE é análogo a uma "planta" de um circuito. Nele são ilustrados os componentes, valores e suas conexões no circuito.
+
+<div align="center">
+<p float="left">
+  <img src="/images/schematic.png" width="900" />
+</p>
+</div>
+
+#### PCB
+
+  O PCB é uma placa dedicada a expressar as conexões de um determinado circuito, auxiliando numa instalação mais precisa e compacta de um circuito. Nota-se que para impressão desse circuito, a imagem deve estar como espelhada, sendo assim possível transcever o circuito diretamente na placa com alguma caneta ou análogo. 
+
+<div align="center">
+<p float="left">
+  <img src="/images/pcb.png" width="900" />
+</p>
+</div>
+
+### Vídeo-tutorial
+
+  O vídeo a seguir descreve exatamente como o projeto foi criado, esclarecendo melhor como utilizar as ferramentas e softwares em questão.
 
 ### Bibliografia
 
