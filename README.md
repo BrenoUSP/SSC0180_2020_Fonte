@@ -79,7 +79,7 @@
 
 ### EAGLE
 
-  Para o desenvolvimento de um esquemático e da PCB do circuito, foi utilizado do software EAGLE, que foi ensinado de suas capacidades e instruções importantes para o desenvolvimento eficaz de circuitos como os esperados da disciplina.
+  Para o desenvolvimento de um esquemático e da PCB do circuito, foi utilizado do software EAGLE, que foi ensinado pelo professor sobre suas capacidades e instruções importantes para o desenvolvimento eficaz de circuitos como os esperados na disciplina.
   
 #### Esquemático
 
