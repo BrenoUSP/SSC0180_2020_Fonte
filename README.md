@@ -69,7 +69,7 @@
 
 <div align="center">
 <p float="left">
-  <img src="/images/falstad.png" width="900" />
+  <img src="/images/falstad.gif" width="900" />
 </p>
 </div>
 
