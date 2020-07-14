@@ -100,7 +100,7 @@
 
 #### PCB
 
-  O PCB é uma placa dedicada a expressar as conexões de um determinado circuito, auxiliando numa instalação mais precisa e compacta de um circuito. Nota-se que para impressão desse circuito, a imagem deve estar como espelhada, sendo assim possível transcever o circuito diretamente na placa com alguma caneta ou análogo. 
+  O PCB é uma placa dedicada a expressar as conexões de um determinado circuito, auxiliando numa instalação mais precisa e compacta de um circuito. Nota-se que para impressão desse circuito, a imagem deve estar como espelhada, sendo assim possível transcever o circuito diretamente na placa com alguma caneta ou análogo. Além disso, é necessário esclarecer que para um circuito em escala real, o transformador provavelmente ficaria fora da placa PCB.
 
 <div align="center">
 <p float="left">
