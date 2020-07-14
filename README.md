@@ -70,7 +70,7 @@
 
   O vídeo a seguir descreve exatamente como o projeto foi criado, esclarecendo melhor como utilizar as ferramentas e softwares em questão.
   
-  [![Imagem da Thumbnail](images/thumb.png)](https://youtu.be/79nIhM0iwAM)
+  [![Imagem da Thumbnail](images/thumbnail.png)](https://youtu.be/79nIhM0iwAM)
 
 ### Simulador Falstad
 
