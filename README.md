@@ -104,7 +104,7 @@
 
 <div align="center">
 <p float="left">
-  <img src="/images/pcb.png" width="900" />
+  <img src="/images/board.png" width="900" />
 </p>
 </div>
 
