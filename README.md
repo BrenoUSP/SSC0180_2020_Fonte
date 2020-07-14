@@ -65,6 +65,13 @@
 </p>
 </div>
 
+
+### Vídeo-tutorial
+
+  O vídeo a seguir descreve exatamente como o projeto foi criado, esclarecendo melhor como utilizar as ferramentas e softwares em questão.
+  
+  [![Imagem da Thumbnail](images/thumb.PNG)](https://youtu.be/79nIhM0iwAM)
+
 ### Simulador Falstad
 
 <div align="center">
@@ -100,10 +107,6 @@
   <img src="/images/pcb.png" width="900" />
 </p>
 </div>
-
-### Vídeo-tutorial
-
-  O vídeo a seguir descreve exatamente como o projeto foi criado, esclarecendo melhor como utilizar as ferramentas e softwares em questão.
 
 ### Bibliografia
 
